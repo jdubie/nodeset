@@ -1,0 +1,7 @@
+{
+  "name": "set",
+  "version": "0.0.1",
+  "devDependencies": {
+    "mocha": "~1.8.2"
+  }
+}
