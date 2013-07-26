@@ -1,7 +1,11 @@
 {
-  "name": "set",
+  "name": "nodeset",
   "version": "0.0.1",
   "devDependencies": {
-    "mocha": "~1.8.2"
+    "mocha": "~1.8.2",
+    "should": "~1.2.2"
+  },
+  "scripts": {
+    "test": "make"
   }
 }
